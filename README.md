@@ -9,6 +9,11 @@ To do:
 
 ## Project Scaffold
 
+Create a cloud-based dev environment:
+- Colab notebooks
+- Github Codespaces
+- AWS CloudShell & Cloud9
+
 ## Command Line Tools
 
 ## Microservices
